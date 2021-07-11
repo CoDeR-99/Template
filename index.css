@@ -200,5 +200,11 @@ div .last{
     
 }
 
+.logo{
+    float: left;
+    height:40vh;
+    margin: -25px 12px 0px 0px;
+    
+}
 
 
